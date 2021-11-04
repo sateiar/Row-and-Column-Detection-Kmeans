@@ -1,0 +1,34 @@
+[
+  {
+    "title" : "Description",
+    "words" : ["description"]
+  },
+  {
+    "title" : "MMA",
+    "words" : ["MMA"]
+  },
+  {
+    "title" : "Amount",
+    "words" : ["amount","gross amount"]
+  },
+  {
+    "title" : "Discount",
+    "words" : ["discount"]
+  },
+  {
+    "title" : "Payable",
+    "words" : ["payable"]
+  },
+  {
+    "title" : "QTY",
+    "words" : ["qty"]
+  },
+  {
+    "title" : "TAX",
+    "words" : ["tax"]
+  },
+  {
+    "title" : "Tax Date",
+    "words" : ["txn date","tan date"]
+  }
+]
